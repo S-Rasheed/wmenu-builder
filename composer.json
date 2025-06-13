@@ -32,7 +32,6 @@
                 "Menu": "Harimayco\\Menu\\Facades\\Menu"
             }
         }
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    }
+    
 }
